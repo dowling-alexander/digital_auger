@@ -1,0 +1,44 @@
+2025-07-27 21:46:23 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-27 21:46:23 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-27 21:46:42 - web_server.py - INFO - Rendering index with 112 packets, 8 devices, 1 ARP requests.
+2025-07-27 21:46:45 - web_server.py - INFO - Rendering index with 151 packets, 9 devices, 1 ARP requests.
+2025-07-27 21:46:46 - web_server.py - INFO - Rendering index with 168 packets, 9 devices, 1 ARP requests.
+2025-07-27 21:46:47 - web_server.py - INFO - Rendering index with 175 packets, 9 devices, 1 ARP requests.
+2025-07-27 21:46:48 - web_server.py - INFO - Rendering index with 181 packets, 9 devices, 1 ARP requests.
+2025-07-28 20:38:34 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 20:38:34 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 20:38:57 - web_server.py - INFO - Rendering index with 987 packets, 14 devices, 8 ARP requests, 965 alerts.
+2025-07-28 20:44:51 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 20:44:51 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 20:44:59 - web_server.py - INFO - Rendering index with 379 packets, 6 devices, 15 ARP requests, 352 alerts.
+2025-07-28 20:57:32 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 20:57:32 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 20:57:44 - web_server.py - INFO - Rendering index with 370 packets, 7 devices, 4 ARP requests, 374 alerts.
+2025-07-28 21:11:59 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 21:11:59 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 21:12:08 - web_server.py - INFO - Rendering index with 400 packets, 9 devices, 0 ARP requests, 408 alerts.
+2025-07-28 21:12:23 - web_server.py - INFO - Rendering index with 1055 packets, 12 devices, 2 ARP requests, 1069 alerts.
+2025-07-28 21:16:24 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 21:16:24 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 21:16:27 - web_server.py - INFO - Rendering index with 86 packets, 6 devices, 0 ARP requests, 96 alerts.
+2025-07-28 21:16:41 - web_server.py - INFO - Rendering index with 472 packets, 7 devices, 7 ARP requests, 478 alerts.
+2025-07-28 21:33:02 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 21:33:02 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 21:33:13 - web_server.py - INFO - Rendering index with 1912 packets, 8 devices, 0 ARP requests, 1721 alerts.
+2025-07-28 21:36:33 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 21:36:33 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 21:36:47 - web_server.py - INFO - Rendering index with 2501 packets, 31 devices, 6 ARP requests, 2194 alerts.
+2025-07-28 21:51:03 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-28 21:51:03 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-28 21:51:08 - web_server.py - INFO - Rendering index with 426 packets, 9 devices, 2 ARP requests, 386 alerts.
+2025-07-28 21:51:09 - web_server.py - INFO - Rendering index with 549 packets, 9 devices, 2 ARP requests, 498 alerts.
+2025-07-29 21:57:13 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-29 21:57:13 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-29 21:57:19 - web_server.py - INFO - Rendering index with 438 packets, 10 devices, 5 ARP requests, 506 alerts.
+2025-07-29 22:01:52 - web_server.py - INFO - TrafficAnalyzer instance set for web server.
+2025-07-29 22:01:52 - web_server.py - INFO - Starting web server on http://0.0.0.0:8000
+2025-07-29 22:02:03 - web_server.py - INFO - Rendering index with 402 packets, 11 devices, 6 ARP requests, 545 alerts.
+2025-07-29 22:02:20 - web_server.py - INFO - Rendering index with 1148 packets, 16 devices, 12 ARP requests, 1529 alerts.
+2025-07-29 22:02:23 - web_server.py - INFO - Rendering index with 1211 packets, 16 devices, 12 ARP requests, 1635 alerts.
+2025-07-29 22:02:24 - web_server.py - INFO - Rendering index with 1258 packets, 18 devices, 14 ARP requests, 1709 alerts.
+2025-07-29 22:02:26 - web_server.py - INFO - Rendering index with 1323 packets, 18 devices, 15 ARP requests, 1787 alerts.

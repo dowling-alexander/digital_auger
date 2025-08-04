@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" rel="stylesheet" />
+    <title>Mechanicus ID Terminal</title>
+    <style>
+      body {
+        background-color: #0c0c0c;
+        color: #e0d8c3;
+      }
+      nav, footer {
+        background-color: #1a1a1a;
+      }
+      img {
+        border-radius: 8px;
+        box-shadow: 0 0 12px rgba(255, 0, 0, 0.3);
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="container-fluid">
+      <ul>
+        <li><strong>Imperial Ident</strong></li>
+      </ul>
+      <ul>
+        <li><a href="#">Log</a></li>
+        <li><a href="#">Data</a></li>
+        <li><a href="#" role="button">Verify</a></li>
+      </ul>
+    </nav>
+
+    <main class="container">
+      <div class="grid">
+        <section>
+          <hgroup>
+            <h2>Adeptus Mechanicus Personnel</h2>
+            <h3>Machine God Authentication Unit</h3>
+          </hgroup>
+          <p>By decree of the Omnissiah, all personnel must maintain their blessed identification through this Mechanicus-authenticated node.</p>
+          <figure>
+            <img src="https://images.unsplash.com/photo-1620114886213-16ce3b4b40b2?auto=format&fit=crop&w=900&q=80" alt="Servo-skull tech imagery" />
+            <figcaption><a href="https://unsplash.com/photos/futuristic-machine-skull-1620114886213" target="_blank">Servo-skull systems - Unsplash</a></figcaption>
+          </figure>
+          <h3>Clearance</h3>
+          <p>Access to this terminal requires Level 7 Omnissiah Protocols. Unauthorized interfacing is heresy.</p>
+          <h3>Affiliation</h3>
+          <p>Only those bearing the sigils of Mars or affiliated Forge Worlds may proceed.</p>
+        </section>
+      </div>
+    </main>
+
+    <section aria-label="Subscribe example">
+      <div class="container">
+        <article>
+          <hgroup>
+            <h2>Omnissiah Log Registry</h2>
+            <h3>Sign up for binary ciphered transmissions</h3>
+          </hgroup>
+          <form class="grid">
+            <input type="text" id="firstname" name="firstname" placeholder="Magos Name" aria-label="First name" required />
+            <input type="email" id="email" name="email" placeholder="@forgeworld.mars" aria-label="Email" required />
+            <button type="submit" onclick="event.preventDefault()">Transmit</button>
+          </form>
+        </article>
+      </div>
+    </section>
+
+    <footer class="container">
+      <small>
+        <a href="#">Omnissiah Protocols</a> • <a href="#">Machine Spirit Support</a>
+      </small>
+    </footer>
+  </body>
+</html>

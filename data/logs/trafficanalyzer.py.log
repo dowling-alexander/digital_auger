@@ -1,0 +1,502 @@
+2025-07-26 21:22:22 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: wlan0
+2025-07-26 21:22:22 - trafficanalyzer.py - INFO - Sniffing thread started on interface: wlan0
+2025-07-26 21:22:22 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-26 21:22:22 - trafficanalyzer.py - ERROR - An error occurred during sniffing: Interface 'wlan0' not found !
+2025-07-26 21:22:22 - trafficanalyzer.py - INFO - Sniffing thread stopped.
+2025-07-26 21:22:32 - trafficanalyzer.py - WARNING - Traffic analysis is not running.
+2025-07-26 21:22:48 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-26 21:22:48 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-26 21:22:48 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-26 21:22:48 - trafficanalyzer.py - INFO - Sniffing thread stopped.
+2025-07-26 21:22:58 - trafficanalyzer.py - WARNING - Traffic analysis is not running.
+2025-07-26 22:04:09 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-26 22:04:09 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-26 22:04:09 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-26 22:04:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531452.919001, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-26 22:04:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531452.9200284, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-26 22:04:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531452.9210303, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-26 22:04:21 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531461.725518, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-26 22:04:30 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531470.0203917, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-26 22:04:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531472.7848742, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-26 22:04:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531472.785861, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-26 22:04:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531481.1814775, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-26 22:04:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531481.1824946, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-26 22:04:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753531481.1834939, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:42:08 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-27 21:42:08 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-27 21:42:08 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-27 21:42:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616529.5574968, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:42:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616535.086532, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:42:16 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616536.1100085, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:42:21 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616541.7878013, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616542.3654706, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616543.3685448, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616543.8929484, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:42:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616544.838389, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616545.364921, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616546.3615375, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616546.965181, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:42:27 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616547.935628, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:28 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616548.8625503, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:29 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616549.0079627, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:42:29 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616549.8661187, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:42:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616552.387634, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:42:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616555.356309, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:46:23 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-27 21:46:23 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-27 21:46:23 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-27 21:46:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616800.7097933, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-27 21:46:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616813.3052797, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:46:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616815.3492196, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:46:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616817.8391824, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:46:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616818.368762, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:46:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616819.3634126, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:47:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616820.87619, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:47:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616821.896853, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:47:05 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616825.0701916, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:47:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616827.2316308, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:47:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616827.2326303, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:47:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616846.1752255, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-27 21:48:50 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-27 21:48:50 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-27 21:48:50 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-27 21:48:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616939.0480776, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:48:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616939.8645213, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:49:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616940.8646424, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:49:10 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616950.004675, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:49:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616952.6685858, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:49:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616958.2003963, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:49:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616959.2258227, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:49:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616963.9301252, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:49:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616963.9301252, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:49:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616965.9773612, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:49:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753616998.1388857, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:50:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617004.0668268, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:50:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617004.9949043, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:50:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617009.9020557, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:50:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617009.9020557, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:50:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617011.9493911, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:50:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617013.9102752, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:50:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617033.9759693, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:50:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617034.9955072, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:50:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617039.1958046, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:50:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617039.1958046, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:50:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617041.96374, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:50:42 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617042.9864504, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:50:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617044.0081418, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:51:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617060.2680297, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:51:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617060.8663802, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:51:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617061.8715649, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:51:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617063.5592012, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:51:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617064.4867096, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:51:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617069.1987815, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:51:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617069.1987815, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:51:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617071.8592901, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:51:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617071.8592901, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-27 21:51:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617072.8813977, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:51:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617073.9021778, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:51:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617093.3608365, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:51:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617094.381981, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:51:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617099.1031199, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:51:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617099.1031199, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:51:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617101.8619976, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:51:42 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617102.788189, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:51:43 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617103.8101423, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:52:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617123.3614428, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:52:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617124.2896347, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:52:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617128.3888507, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:52:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617128.389888, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:52:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617131.651974, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:52:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617131.651974, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-27 21:52:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617132.6882093, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:52:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617133.6051943, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:52:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617153.172907, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:52:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617154.1785805, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:52:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617158.28912, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:52:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617158.3888075, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:52:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617161.463678, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:52:42 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617162.4879072, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:52:43 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617163.5058205, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:52:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617164.5335524, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:52:46 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617166.4813478, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:53:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617181.5111809, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:53:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617182.148879, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:53:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617182.36386, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:53:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617183.172345, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:53:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617183.376366, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-27 21:53:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617188.1905053, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:53:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617188.1915054, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:53:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617191.4663324, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:53:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617193.5142934, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:53:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617195.567545, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:53:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617212.0493307, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:53:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617213.0730913, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:53:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617218.1930192, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:53:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617218.1939905, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:53:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617221.2651641, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:53:43 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617223.2102726, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:53:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617225.4640796, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:53:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617238.1609643, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-27 21:54:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617241.949365, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:54:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617242.974045, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:54:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617248.093706, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:54:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617248.0946262, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:54:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617251.1654737, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:54:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617252.189473, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-27 21:54:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617255.466327, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:54:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617257.4125526, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-27 21:54:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617271.949835, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-27 21:54:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617272.9868793, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-27 21:54:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617278.081533, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-27 21:54:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617278.0972204, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-27 21:54:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617281.1869054, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-27 21:54:42 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753617282.1919773, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 06:50:40 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 06:50:40 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 06:50:40 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 06:51:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649491.5356205, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:51:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649492.471786, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:51:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649493.4641602, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:51:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649514.979585, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:51:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649515.7529938, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:51:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649516.763229, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:52:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649535.6632147, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:52:16 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649536.4582589, 'sender_ip': '10.93.56.4', 'sender_mac': '8c:44:a5:c9:a0:4d', 'target_ip': '10.93.56.85'}
+2025-07-28 06:52:16 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649536.62227, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:52:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649537.622187, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:52:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649554.8265631, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:52:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649574.8332694, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:52:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649574.9120376, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:53:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649599.7324831, 'sender_ip': '10.93.56.104', 'sender_mac': 'f4:39:09:bd:1b:87', 'target_ip': '10.93.56.1'}
+2025-07-28 06:53:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649611.8135035, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:53:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649612.4825122, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:53:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649613.4784856, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:53:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649613.958691, 'sender_ip': '10.93.56.104', 'sender_mac': 'f4:39:09:bd:1b:87', 'target_ip': '10.93.56.1'}
+2025-07-28 06:53:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649624.345425, 'sender_ip': '10.93.56.104', 'sender_mac': 'f4:39:09:bd:1b:87', 'target_ip': '10.93.56.1'}
+2025-07-28 06:53:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649635.4781888, 'sender_ip': '10.93.56.104', 'sender_mac': 'f4:39:09:bd:1b:87', 'target_ip': '10.93.56.1'}
+2025-07-28 06:53:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649636.2631073, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:53:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649636.7733455, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:53:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649637.778823, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:54:16 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649656.93347, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:54:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649657.6378205, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:54:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649658.6469836, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649732.1108027, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649733.0220797, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649734.018758, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649757.5343204, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649758.3115766, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:55:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649759.3179457, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:56:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649775.8869247, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:56:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649778.2685866, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:56:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649779.1715257, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:56:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649780.1769724, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:56:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649795.9028926, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:56:36 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649796.045788, 'sender_ip': '10.93.56.66', 'sender_mac': '4c:d7:17:82:0a:91', 'target_ip': '10.93.56.1'}
+2025-07-28 06:57:27 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649847.084466, 'sender_ip': '10.93.56.4', 'sender_mac': '8c:44:a5:c9:a0:4d', 'target_ip': '10.93.56.85'}
+2025-07-28 06:57:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649852.411904, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:57:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649853.044395, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:57:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649854.0525286, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:57:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649878.804906, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:57:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649879.341433, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:58:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649880.3277125, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 06:58:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649899.521215, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:58:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649900.194903, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:58:21 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649901.1871347, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 06:59:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649972.6813412, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:59:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649973.534844, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 06:59:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753649974.5418043, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650000.022088, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650000.8392704, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650001.8287776, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650020.7557356, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:21 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650021.6857948, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650022.6843047, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 07:00:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650038.5463128, 'sender_ip': '10.93.56.4', 'sender_mac': '8c:44:a5:c9:a0:4d', 'target_ip': '10.93.56.85'}
+2025-07-28 07:00:43 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650043.3545904, 'sender_ip': '10.93.56.85', 'sender_mac': '28:00:af:06:08:f2', 'target_ip': '10.93.56.4'}
+2025-07-28 07:01:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650092.968838, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 07:01:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650093.5368128, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 07:01:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650094.5451574, 'sender_ip': '10.93.56.124', 'sender_mac': '4c:d7:17:82:0a:03', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650121.2413495, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650121.8287523, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650122.8317835, 'sender_ip': '10.93.56.88', 'sender_mac': '4c:d7:17:82:06:ec', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650142.0144033, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650142.6878219, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 07:02:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753650143.6840463, 'sender_ip': '10.93.56.39', 'sender_mac': '00:be:43:bc:4d:c3', 'target_ip': '169.254.169.254'}
+2025-07-28 17:41:52 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 17:41:52 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 17:41:52 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 17:43:51 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 17:43:51 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 17:43:51 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 20:38:34 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 20:38:34 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 20:38:34 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 20:38:37 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699117.1436248, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:38:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699119.1873024, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:38:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699119.1893044, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:38:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699124.2068825, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:38:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699124.2078903, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:38:46 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699126.449309, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:38:47 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699127.4764502, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:38:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699133.3107393, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:39:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699149.902439, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:39:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699152.0607035, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:39:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699152.06211, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:39:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699157.0593872, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:39:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699157.0593872, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:39:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699159.3210638, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:39:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699160.3457692, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:39:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699165.474146, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:39:42 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699182.773611, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:39:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699184.9299378, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:39:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699184.9314423, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:39:49 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699189.9385414, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:39:49 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699189.9485898, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:39:52 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699192.1907108, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:39:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699193.2176855, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:39:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699195.2639287, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:39:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699197.3130035, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:39:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699198.334679, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:39:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699199.3593528, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:40:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699200.28058, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:40:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699201.3059707, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:40:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699202.329958, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:40:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699204.3762386, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:40:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699206.3205652, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:40:14 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699214.7115076, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:44:51 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 20:44:51 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 20:44:51 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 20:44:51 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699491.7304902, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:52 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699492.3273616, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:52 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699492.7503042, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699493.2235873, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699493.5716858, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699493.6736934, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699494.2124844, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699494.592848, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699495.3797, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699495.7220693, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:55 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699495.7230718, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699496.2129054, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699496.5413902, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699497.2204635, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699497.5654712, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699499.6923468, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:44:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699499.818344, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699500.218403, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699500.535294, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699501.047273, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:45:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699501.2259467, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699501.5600646, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699502.6860905, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699502.78074, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699503.2203212, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699503.5989354, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699504.220351, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699504.220351, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:45:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699504.6282165, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:05 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699505.69568, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:05 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699505.7581992, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699506.1656208, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:45:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699506.2129328, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699506.5735953, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699507.2249231, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699507.6019902, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699508.2185605, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:45:08 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699508.6252105, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699509.5468874, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699509.7101202, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:10 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699510.2186565, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:10 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699510.2658348, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:45:10 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699510.5712528, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699511.2173655, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:12 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699512.2096295, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:45:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699515.2905774, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:45:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699519.6009824, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:45:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699520.3831794, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:21 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699521.2185307, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699522.2241776, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699522.8627634, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699523.3989685, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699523.483941, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:45:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699523.4849422, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:45:23 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699523.577657, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699524.2221353, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699524.6039014, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699525.2233288, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699525.5238004, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:45:25 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699525.9336197, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699526.5480053, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:27 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699527.4073412, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:27 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699527.5714073, 'sender_ip': '192.168.0.175', 'sender_mac': 'ec:2e:98:45:5f:f5', 'target_ip': '192.168.0.181'}
+2025-07-28 20:45:28 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753699528.2224004, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '192.168.0.181'}
+2025-07-28 20:57:32 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 20:57:32 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 20:57:32 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 20:57:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700252.9817886, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:57:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700254.0057373, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:57:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700260.6642559, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:57:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700260.665256, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:57:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700265.8799725, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:57:50 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700270.6940305, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:58:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700281.5580318, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:58:01 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700281.5590312, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:58:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700283.5985618, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:58:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700284.6312027, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:58:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700291.2844656, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:58:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700291.2854626, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:58:16 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700296.5105076, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:58:28 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700308.9404545, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 20:58:29 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700309.7384024, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 20:58:30 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700310.7347026, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 20:58:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700311.3471818, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:58:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700311.3471818, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:58:34 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700314.2176704, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:58:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700315.130116, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:58:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700321.894915, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:58:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700321.894915, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:58:57 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700337.5619984, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:59:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700342.6815693, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:59:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700344.638664, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:59:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700351.7945833, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:59:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700351.8018432, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:59:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700355.285649, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:59:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700355.286651, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 20:59:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700362.9658587, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 20:59:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700362.9658587, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 20:59:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700378.0136497, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 20:59:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700385.8927543, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:59:47 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700387.8292358, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 20:59:52 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700392.8460977, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 20:59:52 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700392.8460977, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 20:59:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700396.441295, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 20:59:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700396.4423006, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:00:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700404.0285952, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:00:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700404.0296028, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:00:19 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700419.1839883, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:00:29 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700429.097843, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:00:30 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700430.1496336, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:00:30 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700430.730163, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:00:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700431.1567414, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:00:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700431.7391086, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:00:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700433.1496053, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:00:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700433.1516051, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:00:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700433.152607, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:00:37 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700437.2061002, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:00:37 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700437.207116, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:00:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700445.0909564, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:00:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700445.0920346, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:01:00 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700460.3479667, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:01:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700473.6499534, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:01:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700473.653365, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:01:13 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700473.6543531, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:01:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700478.2680187, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:01:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700478.2690942, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:01:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700486.2522125, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:01:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700486.2532582, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:01:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700501.0006337, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:01:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700514.098834, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:01:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700514.099834, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:01:54 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700514.1008408, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:01:56 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700516.1490119, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:01:58 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700518.092626, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:01:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700519.1255126, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:01:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700519.127506, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:02:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700527.214865, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:02:07 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700527.216886, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:02:22 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700542.1653514, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:02:31 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700551.3946764, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:02:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700552.2337086, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:02:33 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700553.2289188, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:02:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700555.1595335, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:02:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700555.160546, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:02:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700559.058495, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:02:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700560.078506, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:02:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700560.0814824, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:02:48 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700568.368762, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:02:48 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700568.37877, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:03:03 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753700583.0224147, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:11:59 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 21:11:59 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 21:11:59 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 21:12:09 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701129.9450524, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-28 21:12:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701137.1987817, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:12:29 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701149.5921621, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:12:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701152.248593, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:12:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701155.3229213, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:12:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701155.4254599, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:12:37 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701157.5356507, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:12:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701158.2330282, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:12:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701159.2340333, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:12:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701161.578391, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:12:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701161.5797513, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:16:24 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 21:16:24 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 21:16:24 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 21:16:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701395.231665, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:16:36 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701396.2636027, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:16:38 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701398.2093499, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:16:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701399.2522857, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:16:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701399.2522857, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:16:39 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701399.966325, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:16:40 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701400.726894, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:16:41 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701401.7344582, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-28 21:16:46 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701406.917723, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:16:46 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753701406.917723, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:33:02 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 21:33:02 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 21:33:02 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 21:33:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702397.4314578, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:33:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702397.4314578, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:33:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702397.4314578, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:36:33 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 21:36:33 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 21:36:33 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 21:36:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702595.0611305, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:36:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702595.0621574, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:36:35 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702595.063145, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-28 21:36:36 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702596.0905714, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-28 21:36:44 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702604.4787214, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:36:45 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702605.3990607, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:36:48 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753702608.7803597, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:51:03 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-28 21:51:03 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-28 21:51:03 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-28 21:51:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703466.985702, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-28 21:51:06 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703466.986694, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-28 21:51:10 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703470.7850313, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-28 21:51:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703471.7020428, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-28 21:51:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703471.7020428, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-28 21:51:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753703471.7959504, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-29 21:57:13 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-29 21:57:13 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-29 21:57:13 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-29 21:57:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790237.8528688, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-29 21:57:17 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790237.8548186, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-29 21:57:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790238.774778, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-29 21:57:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790238.8729706, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-29 21:57:18 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790238.8744733, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-29 21:57:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790244.1918218, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-29 21:57:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790246.2444444, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-29 21:57:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790246.3085074, 'sender_ip': '192.168.0.25', 'sender_mac': 'c8:15:4e:42:1f:44', 'target_ip': '169.254.169.254'}
+2025-07-29 22:01:52 - trafficanalyzer.py - INFO - TrafficAnalyzer initialized for interface: default
+2025-07-29 22:01:52 - trafficanalyzer.py - INFO - Sniffing thread started on interface: auto
+2025-07-29 22:01:52 - trafficanalyzer.py - INFO - Traffic analysis started.
+2025-07-29 22:01:53 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790513.9116573, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-29 22:01:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790519.954684, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-29 22:01:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790519.955872, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-29 22:01:59 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790519.956872, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-29 22:02:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790522.933176, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-29 22:02:02 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790522.9357612, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-29 22:02:04 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790524.9809828, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-29 22:02:11 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790531.0130842, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-29 22:02:15 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790535.008667, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
+2025-07-29 22:02:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790540.1373687, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.14'}
+2025-07-29 22:02:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790540.1384487, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.25'}
+2025-07-29 22:02:20 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790540.1391807, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.50'}
+2025-07-29 22:02:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790544.0214365, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.78'}
+2025-07-29 22:02:24 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790544.0225236, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.175'}
+2025-07-29 22:02:26 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790546.1779463, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.177'}
+2025-07-29 22:02:32 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790552.2165263, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.181'}
+2025-07-29 22:02:36 - trafficanalyzer.py - DEBUG - ARP Request detected: {'timestamp': 1753790556.1015813, 'sender_ip': '192.168.0.1', 'sender_mac': 'd4:35:1d:89:33:01', 'target_ip': '192.168.0.192'}
